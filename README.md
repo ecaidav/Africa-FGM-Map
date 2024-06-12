@@ -1,4 +1,4 @@
-# Africa-FMG
+# Africa-FMG-Map
 
 Queried data from the [UNICEF Data Warehouse](https://data.unicef.org/dv_index/), [specifically](https://data.unicef.org/resources/data_explorer/unicef_f/?ag=UNICEF&df=GLOBAL_DATAFLOW&ver=1.0&dq=.PT_F_15-49_FGM..&startPeriod=2016&endPeriod=2023&lastnobservations=1) the latest data recorded for the indicator "Percentage of girls and women (aged 15-49 years) who have undergone female genital mutilation (FGM)" in African countries. Used Pandas/GeoPandas, Altair and RegEx to develop a mp where prevalence of indicator in a specific country is denoted by yellow monochromatic gradient shade (e.g., lower % = lighter shade, etc.)
 
